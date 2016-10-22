@@ -10,6 +10,7 @@
 ![广东粤丰农业科技][8]
 ![茶工匠][9]
 ![广州惟于实][10]
+![中山市云经纪网络科技有限公司][11]
 
 
  
@@ -23,3 +24,4 @@
 [8]: https://dn-coding-net-production-pp.qbox.me/66b8127d-3521-4b88-a6ca-71adcd422b80.png
 [9]: https://dn-coding-net-production-pp.qbox.me/d36210f7-409b-4524-8383-fe7f01516b8e.png
 [10]: https://dn-coding-net-production-static.qbox.me/380095a4-a820-4331-8a2e-faa506b3e013.jpeg
+[11]: https://dn-coding-net-production-pp.qbox.me/433e7001-b6bf-4384-b458-a7d629cfa475.png
